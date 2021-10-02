@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S0p5bwkR+BEusyiF61eOqettTMYuKEu4r8g4LgXrF6/DrIkkqiXfJw+NohtBqn9X0lbAoU0b94+bT2NxhmQJNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bathl\\Documents\\proj_2\\proj_2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bathl\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
