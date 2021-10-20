@@ -10,4 +10,9 @@
     <Compile Include="Program.fs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Akka" Version="1.4.26" />
+    <PackageReference Include="Akka.FSharp" Version="1.4.26" />
+  </ItemGroup>
+
 </Project>

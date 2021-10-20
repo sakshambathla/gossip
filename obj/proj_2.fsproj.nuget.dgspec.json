@@ -39,6 +39,16 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Akka": {
+              "target": "Package",
+              "version": "[1.4.26, )",
+              "generatePathProperty": true
+            },
+            "Akka.FSharp": {
+              "target": "Package",
+              "version": "[1.4.26, )",
+              "generatePathProperty": true
+            },
             "FSharp.Core": {
               "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
               "target": "Package",
